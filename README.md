@@ -1,2 +1,2 @@
 # marlin-configs
-My Marlin configs (reprap)
+My fine-tuned Marlin configs (reprap)
